@@ -1,0 +1,14 @@
+{
+    "python.formatting.provider": "black",
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${workspaceFolder}:${workspaceFolder}/ib:${workspaceFolder}/ib/common"
+    },
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+}

@@ -1,0 +1,6 @@
+import ibapi
+
+
+class test:
+    def __init__(self) -> None:
+        pass

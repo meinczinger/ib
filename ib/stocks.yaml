@@ -1,0 +1,18 @@
+CBK:
+  name: Commerzbank
+  region: EU
+  currency: EUR
+  industry: Banks
+  sector: Financial
+AAPL:
+  name: Apple
+  region: US
+  currency: USD
+  industry: Phones and smart phones
+  sector: Technology
+ALV:
+  name: Allianz
+  region: EU
+  currency: EUR
+  industry: Insurance
+  sector: Financial
